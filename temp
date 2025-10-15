@@ -1,0 +1,123 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 84A6-665E
+
+ Directory of C:\Users\david\entropy_engine\modules
+
+14-Oct-25  07:55 PM    <DIR>          .
+14-Oct-25  07:55 PM    <DIR>          ..
+12-Oct-25  09:50 PM    <DIR>          .ipynb_checkpoints
+12-Oct-25  10:25 PM    <DIR>          google_trend
+14-Oct-25  07:58 PM    <DIR>          high_freq
+12-Oct-25  09:25 PM    <DIR>          price_noise
+12-Oct-25  10:39 PM    <DIR>          volume_spike
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\david\entropy_engine\modules\.ipynb_checkpoints
+
+12-Oct-25  09:50 PM    <DIR>          .
+12-Oct-25  09:50 PM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\david\entropy_engine\modules\google_trend
+
+12-Oct-25  10:25 PM    <DIR>          .
+12-Oct-25  10:25 PM    <DIR>          ..
+12-Oct-25  09:50 PM    <DIR>          .ipynb_checkpoints
+12-Oct-25  10:25 PM             1,666 entropy.py
+12-Oct-25  10:26 PM    <DIR>          __pycache__
+               1 File(s)          1,666 bytes
+
+ Directory of C:\Users\david\entropy_engine\modules\google_trend\.ipynb_checkpoints
+
+12-Oct-25  09:50 PM    <DIR>          .
+12-Oct-25  09:50 PM    <DIR>          ..
+12-Oct-25  10:25 PM             1,666 entropy-checkpoint.py
+               1 File(s)          1,666 bytes
+
+ Directory of C:\Users\david\entropy_engine\modules\google_trend\__pycache__
+
+12-Oct-25  10:26 PM    <DIR>          .
+12-Oct-25  10:26 PM    <DIR>          ..
+12-Oct-25  10:26 PM             2,752 entropy.cpython-312.pyc
+               1 File(s)          2,752 bytes
+
+ Directory of C:\Users\david\entropy_engine\modules\high_freq
+
+14-Oct-25  07:58 PM    <DIR>          .
+14-Oct-25  07:58 PM    <DIR>          ..
+14-Oct-25  07:57 PM    <DIR>          .ipynb_checkpoints
+14-Oct-25  07:58 PM             1,253 entropy.py
+               1 File(s)          1,253 bytes
+
+ Directory of C:\Users\david\entropy_engine\modules\high_freq\.ipynb_checkpoints
+
+14-Oct-25  07:57 PM    <DIR>          .
+14-Oct-25  07:57 PM    <DIR>          ..
+14-Oct-25  07:58 PM             1,253 entropy-checkpoint.py
+               1 File(s)          1,253 bytes
+
+ Directory of C:\Users\david\entropy_engine\modules\price_noise
+
+12-Oct-25  09:25 PM    <DIR>          .
+12-Oct-25  09:25 PM    <DIR>          ..
+12-Oct-25  07:58 PM    <DIR>          .ipynb_checkpoints
+12-Oct-25  08:09 PM               239 config.py
+12-Oct-25  09:25 PM             1,168 entropy.py
+12-Oct-25  08:08 PM               545 stream.py
+12-Oct-25  07:09 PM    <DIR>          tests
+12-Oct-25  07:09 PM                 0 __init__.py
+12-Oct-25  09:37 PM    <DIR>          __pycache__
+               4 File(s)          1,952 bytes
+
+ Directory of C:\Users\david\entropy_engine\modules\price_noise\.ipynb_checkpoints
+
+12-Oct-25  07:58 PM    <DIR>          .
+12-Oct-25  07:58 PM    <DIR>          ..
+12-Oct-25  08:09 PM               239 config-checkpoint.py
+12-Oct-25  09:25 PM             1,168 entropy-checkpoint.py
+12-Oct-25  08:08 PM               545 stream-checkpoint.py
+               3 File(s)          1,952 bytes
+
+ Directory of C:\Users\david\entropy_engine\modules\price_noise\tests
+
+12-Oct-25  07:09 PM    <DIR>          .
+12-Oct-25  07:09 PM    <DIR>          ..
+12-Oct-25  07:09 PM                 0 test_entropy.py
+               1 File(s)              0 bytes
+
+ Directory of C:\Users\david\entropy_engine\modules\price_noise\__pycache__
+
+12-Oct-25  09:37 PM    <DIR>          .
+12-Oct-25  09:37 PM    <DIR>          ..
+12-Oct-25  09:20 PM               345 config.cpython-312.pyc
+12-Oct-25  09:37 PM             1,893 entropy.cpython-312.pyc
+12-Oct-25  09:20 PM               967 stream.cpython-312.pyc
+12-Oct-25  07:53 PM               158 __init__.cpython-312.pyc
+               4 File(s)          3,363 bytes
+
+ Directory of C:\Users\david\entropy_engine\modules\volume_spike
+
+12-Oct-25  10:39 PM    <DIR>          .
+12-Oct-25  10:39 PM    <DIR>          ..
+12-Oct-25  10:33 PM    <DIR>          .ipynb_checkpoints
+12-Oct-25  10:33 PM               695 entropy.py
+12-Oct-25  10:39 PM    <DIR>          __pycache__
+               1 File(s)            695 bytes
+
+ Directory of C:\Users\david\entropy_engine\modules\volume_spike\.ipynb_checkpoints
+
+12-Oct-25  10:33 PM    <DIR>          .
+12-Oct-25  10:33 PM    <DIR>          ..
+12-Oct-25  10:33 PM               695 entropy-checkpoint.py
+               1 File(s)            695 bytes
+
+ Directory of C:\Users\david\entropy_engine\modules\volume_spike\__pycache__
+
+12-Oct-25  10:39 PM    <DIR>          .
+12-Oct-25  10:39 PM    <DIR>          ..
+12-Oct-25  10:39 PM             1,411 entropy.cpython-312.pyc
+               1 File(s)          1,411 bytes
+
+     Total Files Listed:
+              20 File(s)         18,658 bytes
+              41 Dir(s)  77,043,658,752 bytes free
