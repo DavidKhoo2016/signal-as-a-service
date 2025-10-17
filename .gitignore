@@ -3,6 +3,7 @@ fusion/
 modules/
 analytics/
 config/
+cockpit/
 csv_logger/
 logs/
 utils/
