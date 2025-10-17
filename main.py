@@ -1,27 +1,7 @@
-from cockpit.dashboard import Dashboard
-from fusion.fusion_core import FusionEngine
+# main.py
 
-def test_fusion():
-    engine = FusionEngine()
-    engine.load_modules()
-    for _ in range(10):
-        engine.update_streams()
-        signal = engine.get_fused_signal()
-        print(f"[test] Fused Signal: {signal}")
+from api_server import app  # Import the FastAPI app defined in api_server.py
 
-def main():
-    print("[main] Launching cockpit...")
-    dashboard = Dashboard()
-#    dashboard.run_live()
-    try:
-        dashboard.run_live()
-    except Exception as e:
-        print(f"\n[main] ❌ Cockpit crashed: {e}")
-        input("[main] Press Enter to exit...")
-
-if __name__ == "__main__":
-    # Uncomment to test fusion manually
-    # test_fusion()
-
-    # Launch full cockpit
-    main()
+# This file is intentionally minimal.
+# It serves as the ASGI entry point for Uvicorn or any hosting platform.
+# Run with: uvicorn main:app --host 0.0.0.0 --port 10000
