@@ -1,0 +1,15 @@
+# Sensitive folders
+fusion/
+modules/
+analytics/
+config/
+csv_logger/
+logs/
+utils/
+__pycache__/
+.ipynb_checkpoints/
+
+# Sensitive files
+entropy_log.csv
+entropy_stream.json
+dir.txt
