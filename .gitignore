@@ -14,3 +14,5 @@ __pycache__/
 entropy_log.csv
 entropy_stream.json
 dir.txt
+render_deploy_key
+render_deploy_key.pub
